@@ -118,3 +118,9 @@ Contains **segment-level annotations** with columns:
   * 20–30s: insulting
   * 30–40s: violence
   * 40–50s: normal
+
+---
+
+### lexicons.json
+
+This JSON file contains the **hate lexicons** used to search and identify relevant videos across platforms.
