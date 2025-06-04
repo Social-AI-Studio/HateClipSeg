@@ -1,4 +1,4 @@
-hateful_lexicons = {
+{
     "gender": {
         "female": [
             "cunt", "femnazi", "whore", "mudshark", "chicks", "pussy",
@@ -103,16 +103,6 @@ hateful_lexicons = {
         ]
     }
 }
-
-# If you need a single flat list of all lexicons, you can do:
-all_hateful_terms = []
-def collect_terms(node):
-    if isinstance(node, list):
-        all_hateful_terms.extend(node)
-    elif isinstance(node, dict):
-        for sub in node.values():
-            collect_terms(sub)
-
 collect_terms(hateful_lexicons)
 # `all_hateful_terms` now contains every string in a single list.
 
