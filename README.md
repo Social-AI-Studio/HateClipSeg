@@ -1,7 +1,3 @@
-Here’s a rewritten and polished version of your README section that improves clarity, flow, grammar, and formatting while preserving the technical content:
-
----
-
 # HateClipSeg
 
 This repository contains the dataset developed for our paper:
@@ -63,8 +59,7 @@ With high-quality segment-level annotations, HateClipSeg enables the extension o
 2. **Temporal Video Localization**: Detect labels along with their start and end timestamps within untrimmed videos.
 3. **Online Video Classification**: Perform real-time label prediction on streaming video.
 
-![Diagram illustrating Trimmed Hateful Video Classification, Temporal Hateful Video Localization, and Online
-Hateful Video Classification](Images/figure.png)
+<img src="Images/figure.png" alt="Diagram illustrating tasks" width="600"/>
 
 
 ---
@@ -140,7 +135,7 @@ This file contains **segment-level annotations** with the following columns:
 
 ---
 
-### `hate_lexicons.json`
+### `lexicons.json`
 
 This JSON file contains the **hate lexicons** used to search and identify relevant videos across platforms.
 
