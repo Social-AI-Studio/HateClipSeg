@@ -1,0 +1,436 @@
+Video Id,Video-Level Label,Target Victim
+bit_0EHvMSiEHVoc,['violence'],[]
+bit_0SYLs1h6WtM2,"['hateful', 'insulting', 'sexual']",['White']
+bit_0ZrexCZJ860o,['violence'],[]
+bit_0dcMcI6hYjhw,"['hateful', 'insulting']","['Black', 'Jew', 'Transgender', 'Asian', 'Gay']"
+bit_0e61b9MSI4mx,['normal'],[]
+bit_0ikioG8LBXn6,"['hateful', 'insulting', 'sexual', 'violence']",['Communist']
+bit_1MmYUYfYLBQM,"['hateful', 'insulting']",['Islam']
+bit_1R6aAMuJnH2t,"['hateful', 'insulting']",['Man']
+bit_1tSlrQp29rhp,"['insulting', 'sexual']",[]
+bit_1yMeybakjXHe,"['hateful', 'insulting', 'sexual', 'violence']",['Communist']
+bit_2AX22tKwbovE,['violence'],[]
+bit_2Fi9L4EcJScv,"['insulting', 'sexual', 'violence']",[]
+bit_2ZR4SYsWDs7V,"['insulting', 'violence']",[]
+bit_2cXiiOmtrsmJ,"['hateful', 'insulting', 'violence']","['Black', 'Asian']"
+bit_2fiDtpXIXSC1,"['hateful', 'violence']","['Black', 'White']"
+bit_2tGMW5T5IbNz,['insulting'],[]
+bit_31rJviGNq6yk,['violence'],[]
+bit_3Cgl0tIPDmSq,"['hateful', 'insulting', 'harm']","['Black', 'Others']"
+bit_3lxjBTnw66Su,['normal'],[]
+bit_4BVcDK677Zp7,"['insulting', 'sexual', 'violence']",[]
+bit_4Mot8c6m4NAC,['normal'],[]
+bit_4WYFmPh9YTDk,"['insulting', 'violence']",[]
+bit_4saTrb0KOoEQ,['insulting'],[]
+bit_4yee1Mr43VsZ,"['insulting', 'violence']",[]
+bit_5AGwQFvbnvLx,['normal'],"['White', 'Others']"
+bit_5ETFPwUAKnLf,"['insulting', 'violence']",[]
+bit_5bmNcjtNGQqi,"['hateful', 'insulting']",['Transgender']
+bit_5oohHTlN52w4,"['hateful', 'insulting']",['Jew']
+bit_5u5WDGSqZfNW,"['hateful', 'insulting', 'sexual', 'violence']",['Jew']
+bit_6V0WfQmyP216,"['hateful', 'insulting', 'sexual', 'violence']",['Communist']
+bit_6VJNfqBDbOdK,"['hateful', 'insulting', 'violence']","['White', 'Others', 'Black', 'Jew', 'Transgender', 'Arab', 'Lesbian', 'Gay']"
+bit_6aHW6jocI9kJ,"['hateful', 'insulting']","['Black', 'Jew', 'Latino', 'Others']"
+bit_6bbEQLuR9tFk,"['hateful', 'insulting']",['Transgender']
+bit_6eci5TdlxMW7,['violence'],[]
+bit_70K5DyQOTWax,['hateful'],['Others']
+bit_7EOOUGa9y9h4,"['hateful', 'insulting', 'violence']","['Christian', 'Others']"
+bit_7X9rlRkvRLze,['sexual'],[]
+bit_8Dj3WU8Lx0Ep,"['sexual', 'violence']",[]
+bit_8GlJta4iOz3v,"['insulting', 'violence']",[]
+bit_8XOwi182kKkm,"['insulting', 'harm', 'violence']",[]
+bit_8zPjt3nHnDmV,['violence'],[]
+bit_917GIRtT5kVH,['normal'],[]
+bit_96vVEZz68imd,"['hateful', 'insulting']","['Woman', 'Others', 'Black', 'Jew', 'Transgender', 'Lesbian', 'Gay']"
+bit_9MLGFR9A3dtU,"['hateful', 'insulting', 'violence']",['Jew']
+bit_9uMqeIwTlskd,['normal'],[]
+bit_9wQoXroai6Tn,['insulting'],[]
+bit_A7piMLsDQgXd,"['insulting', 'harm', 'violence']",[]
+bit_ATVPRSCWONOP,"['hateful', 'insulting', 'violence']","['Black', 'Others']"
+bit_AZovlw3L8l8Y,"['hateful', 'insulting', 'violence']",['Jew']
+bit_AtDhOHA0PKKy,"['insulting', 'sexual', 'violence']",[]
+bit_AxrVklzh9Cyf,"['hateful', 'insulting', 'sexual', 'violence']",['Others']
+bit_BA0enjWSQ4sY,['insulting'],[]
+bit_BH9CoggyV5sh,"['insulting', 'sexual', 'violence']",[]
+bit_BZHgHkIw13Fi,"['insulting', 'sexual']",[]
+bit_BZeQ0Y2J8UoQ,"['hateful', 'insulting', 'violence']","['Woman', 'Jew', 'Black', 'Others']"
+bit_BazwTAe1PNbk,"['hateful', 'insulting']",['Islam']
+bit_BezrmZTIDfHL,"['hateful', 'insulting', 'violence']",['Jew']
+bit_BqENddbHI02h,"['insulting', 'sexual']",[]
+bit_C4MbEUOgiVqN,['insulting'],[]
+bit_CQw1txUrWynU,"['hateful', 'insulting', 'violence']",['Others']
+bit_CrnBJv1YrtPt,"['insulting', 'sexual', 'violence']",['Others']
+bit_DFOUVueqhH8D,['violence'],[]
+bit_DFReSOwVnuSG,"['hateful', 'insulting', 'violence']",['Asian']
+bit_DR1bootSpmQK,"['hateful', 'insulting']","['Buddhist', 'Christian', 'Asian', 'Others']"
+bit_Dn2AWVRIgEVd,"['hateful', 'insulting', 'violence']",[]
+bit_DoclKb8X2u4O,"['hateful', 'insulting', 'harm', 'violence']",['Gay']
+bit_E9WnMhzMFUWP,['normal'],[]
+bit_EH4buPGuFok7,"['hateful', 'insulting', 'violence']",['Jew']
+bit_EhHEgqyLopjL,"['hateful', 'insulting']",['Liberals']
+bit_FCWyEzSntMJh,"['insulting', 'violence']",[]
+bit_FK4MGsKanAnE,"['hateful', 'insulting']",['Black']
+bit_FNGFE3pLDLfu,"['hateful', 'insulting', 'sexual']",['Jew']
+bit_FObVrmWRz4hG,['insulting'],[]
+bit_FTkzcbWQIcjn,"['hateful', 'insulting', 'violence']","['Jew', 'Others']"
+bit_FW2qCFPJMpNp,"['insulting', 'violence']",[]
+bit_FhIJWvzBxYM2,"['hateful', 'insulting', 'harm', 'violence']","['Liberals', 'Jew', 'Communist', 'Transgender', 'Christian', 'Lesbian', 'Gay']"
+bit_G2gIZt78r1dm,['hateful'],['Jew']
+bit_Gd82dgNBRzPw,"['hateful', 'insulting', 'sexual', 'violence']","['Woman', 'Black']"
+bit_GhbaWPYcrixI,"['hateful', 'insulting']",['Islam']
+bit_H50i5iAhFUru,"['insulting', 'violence']",[]
+bit_H6MYrA7ZTokV,['normal'],[]
+bit_H8ZwlkYdXPUw,"['hateful', 'insulting', 'sexual']",['Jew']
+bit_HI9AuVVbdlsB,['insulting'],[]
+bit_HLSLc0FD28sB,"['hateful', 'sexual', 'violence']",['Jew']
+bit_Hi3ca2E846gC,['insulting'],[]
+bit_HrCLrEy4GBla,"['hateful', 'insulting']",['White']
+bit_HteYonqdDQpG,['insulting'],[]
+bit_IJpOysLrnR6G,"['insulting', 'sexual']",[]
+bit_IK1ulUjZFCxb,"['hateful', 'insulting', 'sexual', 'violence']",['Woman']
+bit_IVZ7jXxCeokA,"['hateful', 'violence']",['Jew']
+bit_IZ0vKg6zRxQC,"['hateful', 'violence']",[]
+bit_Ij7rvSiEYBRd,"['hateful', 'insulting', 'violence']","['Black', 'Jew', 'Communist', 'Others']"
+bit_JMrfHzdZBKaz,['normal'],[]
+bit_JRVaNPqblBnA,['hateful'],['Jew']
+bit_Jl81Ars8alKV,['violence'],[]
+bit_JpV0qMwnpAZN,"['hateful', 'insulting']",['Jew']
+bit_K23yxFQKOgv4,"['hateful', 'insulting']",[]
+bit_KNYOgadtPdin,"['hateful', 'insulting', 'violence']","['Black', 'Others']"
+bit_KVViBkUN5hMP,['insulting'],[]
+bit_Kvbks8RXWgKm,['insulting'],[]
+bit_LDGITUccIrhf,['insulting'],[]
+bit_LJWvVYtD4y8P,"['hateful', 'insulting', 'violence']",['Woman']
+bit_LV9tLwq76DPc,['hateful'],"['Black', 'Jew', 'Islam']"
+bit_LZ6oTX9mW0M3,"['hateful', 'insulting']",['Jew']
+bit_LbrfiRl0jNwY,['violence'],[]
+bit_Ln0BHOrsIUKr,"['hateful', 'violence']",['Jew']
+bit_LvMbyeX5fLTv,['insulting'],[]
+bit_LwGfLS6KVsz5,"['insulting', 'violence']",[]
+bit_MSThJCCEO13y,"['hateful', 'violence']",[]
+bit_MzqKLgoFVMDt,['insulting'],['Others']
+bit_N01lBSoPKrp8,"['hateful', 'violence']",['Christian']
+bit_NMjrQoXdTqVk,['normal'],[]
+bit_NOA6dpm1SbOn,"['hateful', 'insulting', 'violence']",['Jew']
+bit_NUUbOHG3A0tJ,"['hateful', 'insulting', 'violence']",['Jew']
+bit_NXrAD0NRxzI,"['insulting', 'violence']",[]
+bit_NazwW5yYFsZD,['insulting'],[]
+bit_NcIohi7mCuVI,['violence'],[]
+bit_O1kfCUve96Vz,"['hateful', 'insulting']",['Islam']
+bit_O4o6tjAapmg1,['violence'],[]
+bit_OLacYcvDGzqm,"['hateful', 'insulting', 'violence']",['Asian']
+bit_OcfP9r2O0lPj,"['insulting', 'violence']",[]
+bit_P5pASHk14L0L,"['hateful', 'insulting']","['Jew', 'White']"
+bit_PE4PlPE0wso,"['hateful', 'insulting']",['White']
+bit_PqoEH7UsBPED,"['hateful', 'insulting', 'violence']","['Black', 'Islam', 'White', 'Others']"
+bit_Q5Q5TuHiZ1p4,"['hateful', 'insulting', 'harm', 'violence']",['White']
+bit_QBLaDo1eggoT,"['hateful', 'violence']","['Woman', 'White', 'Others', 'Man', 'Lesbian', 'Gay']"
+bit_QR9jyRugyFak,"['insulting', 'sexual', 'violence']",[]
+bit_QTc8bLlrQYIB,['normal'],[]
+bit_QjqTbKCgMAHv,"['insulting', 'sexual', 'violence']",[]
+bit_QlKI556vSwXh,"['hateful', 'insulting', 'violence']",['Jew']
+bit_R10PHq2AoFBu,"['hateful', 'sexual', 'violence']",['Christian']
+bit_RlIvvM5aGJwa,"['hateful', 'insulting']","['Islam', 'White']"
+bit_RmXYkthir1fU,['normal'],[]
+bit_RxTM47m6yzni,"['insulting', 'violence']",[]
+bit_S31ZfbXRDBsn,['violence'],[]
+bit_Szemc4NK6WNr,"['hateful', 'insulting', 'violence']","['Woman', 'Jew', 'White']"
+bit_T8WbPXzZTebJ,"['hateful', 'insulting', 'violence']",['Jew']
+bit_TFlGRQpy2ckm,"['hateful', 'sexual']",[]
+bit_TUMUeNaLSJFs,"['hateful', 'insulting', 'violence']","['Jew', 'White']"
+bit_TWNmhpH5FvzD,"['hateful', 'insulting', 'violence']",['Jew']
+bit_Tj58jUJwNPoA,"['hateful', 'sexual']","['Black', 'White']"
+bit_Tose8xws64RQ,['violence'],[]
+bit_TskcYw3JYEHK,"['insulting', 'violence']",[]
+bit_UQSJozbh5ZnB,"['hateful', 'insulting', 'violence']","['Jew', 'Others']"
+bit_UehGCkvOhHyD,"['insulting', 'violence']",[]
+bit_UjVPmn3jV4Pr,"['insulting', 'sexual', 'violence']",[]
+bit_Un181ntu9kCI,['sexual'],[]
+bit_VZsOOSVUPP2c,"['insulting', 'harm', 'violence']",[]
+bit_VfDK7U1cX9fv,['normal'],[]
+bit_VreBNCJHfDyB,"['hateful', 'insulting']",[]
+bit_W7lb5BIbfLDf,"['hateful', 'insulting']",['Man']
+bit_WI2EJD9ec2uO,['insulting'],[]
+bit_WfQjm5odNoWW,['insulting'],['Jew']
+bit_XLR9PZdzCoSg,"['hateful', 'insulting', 'sexual', 'violence']","['Woman', 'Jew', 'Black']"
+bit_XdG6IJpy2HGu,"['hateful', 'insulting', 'violence']",['Jew']
+bit_XkQGFhrIWgVG,"['hateful', 'insulting', 'violence']","['Jew', 'Islam', 'Others']"
+bit_Xp8Kqov3LRa8,"['hateful', 'insulting']","['Woman', 'White', 'Black', 'Jew', 'Asian', 'Gay']"
+bit_XswHfki5olXx,"['hateful', 'insulting', 'violence']",['Black']
+bit_Y4NcS9xwARDO,"['hateful', 'insulting', 'sexual']",[]
+bit_YF341Jq7xPMk,"['insulting', 'sexual']",[]
+bit_YGy0qR6pHWGm,"['hateful', 'insulting', 'sexual']","['Black', 'Jew']"
+bit_YLEYsKVPonfS,['insulting'],[]
+bit_Ye8xlqD69wDN,"['insulting', 'sexual', 'violence']",[]
+bit_YkK07fZfwpel,['normal'],[]
+bit_YotJ95CbRQER,"['insulting', 'sexual']",[]
+bit_Z3XuldnhQQqG,"['hateful', 'insulting']",['Others']
+bit_ZUFasGpIXuk,"['hateful', 'insulting']","['Asian', 'Others']"
+bit_ZaY0S1anrdep,"['insulting', 'sexual']",[]
+bit_ZdhKC1Ouo4oq,['hateful'],['Islam']
+bit_a0wa6OJpGM7V,"['hateful', 'insulting', 'violence']",['Jew']
+bit_a6j0OgAXkjg8,"['hateful', 'violence']",['Black']
+bit_aGEuLPr8KxCm,"['hateful', 'insulting', 'sexual', 'violence']","['Black', 'Others', 'Mixed-Race']"
+bit_aNcWRaFIfk5l,"['hateful', 'insulting', 'sexual', 'violence']",['Black']
+bit_aYUsVNCEQ1hY,"['hateful', 'insulting', 'sexual', 'violence']","['Christian', 'Islam', 'Lesbian', 'Others']"
+bit_awahfpJCG4c9,"['hateful', 'insulting', 'violence']",[]
+bit_azrZyLSXq8JB,['violence'],[]
+bit_bJaN0Hi6YyHb,"['hateful', 'insulting', 'violence']",['Others']
+bit_bS9fp61aH8vi,['insulting'],[]
+bit_bd3xKm3GGC8t,"['insulting', 'violence']",[]
+bit_cBdMzo9wJNBA,"['hateful', 'insulting', 'violence']",[]
+bit_cGOcOOCU9Pcr,"['insulting', 'violence']",[]
+bit_cLvQ5GajcfPd,['normal'],[]
+bit_cgQvLJnRRpAG,"['insulting', 'violence']",[]
+bit_ckVu3UOtuy7O,"['insulting', 'violence']",[]
+bit_cnBiYt5bsH2S,['hateful'],['Jew']
+bit_d39rrxdDEC5D,['insulting'],[]
+bit_dHKIVQJnBIFx,"['insulting', 'violence']",[]
+bit_dV5KnpEg0GHn,['hateful'],['Jew']
+bit_eN7pahwWVi2G,['violence'],[]
+bit_eOw8DJtSkecM,['hateful'],"['Black', 'Others']"
+bit_ekDHKqM61cV3,"['hateful', 'insulting']","['Black', 'Jew', 'White']"
+bit_f174RJMAVSdF,"['hateful', 'insulting', 'violence']","['Transgender', 'Lesbian', 'Others', 'Gay']"
+bit_fAwpOCR2sBZm,"['hateful', 'insulting']","['Black', 'Jew', 'Gay']"
+bit_g7iIX4amR7eh,['hateful'],['Others']
+bit_gWeEH6fKQUgP,"['hateful', 'insulting', 'sexual', 'violence']",['Jew']
+bit_gd4jWInlIuTQ,"['hateful', 'insulting', 'violence']",[]
+bit_hGdvV4PKP72d,"['hateful', 'insulting', 'violence']","['Black', 'Arab', 'Jew', 'Others']"
+bit_hHx3760-S24,['normal'],[]
+bit_ha0dTPrFC70F,['violence'],[]
+bit_iH17IA6YK6wK,"['hateful', 'insulting']",['White']
+bit_iKVGBTRUT6uy,"['hateful', 'insulting']",[]
+bit_illSzHhgMzdP,"['insulting', 'violence']",[]
+bit_iup1Mknr6OWf,"['hateful', 'insulting']","['Jew', 'Transgender']"
+bit_ivzbHnkmunom,"['insulting', 'violence']",[]
+bit_ixRHgdkSU6WT,"['hateful', 'insulting', 'violence']",['Jew']
+bit_iz7lfjF3pT8n,['violence'],[]
+bit_jbgQt3aoho2U,"['hateful', 'insulting', 'sexual', 'violence']","['Christian', 'Others']"
+bit_jcM4rZkhzRuw,['hateful'],['Jew']
+bit_juBWqKDLAHw3,"['hateful', 'insulting']",['Jew']
+bit_jubQcJCZQ3dQ,['insulting'],[]
+bit_k3R5Bj1U6Zqx,"['hateful', 'insulting', 'violence']",[]
+bit_k8xMwxLWbl06,['normal'],[]
+bit_kS7pQdSq2xac,"['hateful', 'insulting', 'violence']","['Arab', 'Jew', 'Others']"
+bit_kTeXLm1VdzGZ,"['harm', 'violence']",[]
+bit_kmHHl6wzIdbX,['harm'],[]
+bit_kzX1bsYZGVFN,['normal'],[]
+bit_lTnMTQv5aYY,['normal'],[]
+bit_liHw7mK8qd2c,"['insulting', 'violence']",[]
+bit_loRRkgPsGTHU,"['insulting', 'violence']",[]
+bit_m1C1E8iTOj4q,['insulting'],[]
+bit_mFQB8w5KxySh,"['hateful', 'insulting']","['Jew', 'Transgender', 'Latino']"
+bit_mQ5gX03QAX9I,"['hateful', 'insulting', 'violence']",['Jew']
+bit_mqNiM3cxO3af,['violence'],[]
+bit_nZtDxalaaCXA,['insulting'],[]
+bit_oXIjCOfHqaiL,"['hateful', 'insulting', 'violence']",['Jew']
+bit_oYivCNqa7OIz,['insulting'],[]
+bit_ocafPACWBL7D,"['hateful', 'insulting']",['Mixed-Race']
+bit_ono1taXQhZaQ,"['insulting', 'sexual', 'violence']",[]
+bit_otzTuWMoEgZb,"['insulting', 'sexual']",[]
+bit_ouoQ_FKmPtg,['normal'],[]
+bit_p6JA6tQsDBi7,['violence'],[]
+bit_p81IYfLgGySx,"['insulting', 'harm', 'violence']",[]
+bit_pEEHjABttUk4,['insulting'],[]
+bit_pHhTgaO7LfdD,"['hateful', 'violence']","['Jew', 'Islam']"
+bit_q7YAE7xXDlCr,"['hateful', 'insulting']",['Transgender']
+bit_qMgFlJX2rOUw,['violence'],[]
+bit_qUPXvRJbDiPL,"['hateful', 'insulting']",['Jew']
+bit_qUcxSCr4pgyP,"['insulting', 'sexual']",[]
+bit_qcQWJxqduguc,"['insulting', 'sexual', 'violence']",[]
+bit_qcWGTU6hL15a,"['hateful', 'insulting']",['Jew']
+bit_qwKarAFlZScl,"['insulting', 'violence']",[]
+bit_r7Am2yJu0HpG,"['hateful', 'insulting']",['Jew']
+bit_rlHbCxhX3uMZ,['insulting'],[]
+bit_rsFNOCfBBlxY,['insulting'],[]
+bit_s0Hrb2M5Yth8,['sexual'],[]
+bit_s8peJROAMsvt,"['insulting', 'violence']",[]
+bit_sD2xbc8q9SZl,['hateful'],['Islam']
+bit_sakXzfQlJS2k,"['hateful', 'insulting']",['Others']
+bit_surJFOwkIoBX,"['hateful', 'insulting']","['Black', 'Jew']"
+bit_swbp1aQ1qRkK,"['insulting', 'violence']",[]
+bit_swmZey6YALco,['violence'],[]
+bit_tDqeaQV3Qiie,['insulting'],[]
+bit_tPHTpxjsjAil,"['hateful', 'insulting', 'sexual', 'violence']",['Others']
+bit_teqW9rLI2o45,"['hateful', 'insulting', 'violence']","['Jew', 'Others']"
+bit_u537x3BA2svM,['insulting'],[]
+bit_uMjaXMtboDDU,"['hateful', 'insulting', 'violence']","['Black', 'Jew']"
+bit_uTkBtKfWkLDk,"['hateful', 'insulting', 'harm', 'violence']",['Transgender']
+bit_uf8qPZ70G98Z,"['insulting', 'sexual', 'violence']",[]
+bit_utmoP2A8EB81,['sexual'],[]
+bit_uzQEXfhI9JGg,"['hateful', 'insulting']",['Woman']
+bit_vCoe2gtskpb5,"['insulting', 'violence']",[]
+bit_vDCZWQyEiO0f,"['hateful', 'insulting', 'harm', 'violence']",['Others']
+bit_vF6itRB8Pi9J,['insulting'],[]
+bit_vLPjXvUnnv4F,"['hateful', 'insulting']",['Jew']
+bit_vON1xVj4Ca77,['insulting'],[]
+bit_vWHHWnHm16wY,"['hateful', 'violence']",['Asian']
+bit_vecP7hG0DXgB,"['hateful', 'insulting', 'sexual']","['White', 'Black', 'Jew', 'Man', 'Gay']"
+bit_vf72effj3d4d,['violence'],[]
+bit_vhvrq4KL4Qzv,"['hateful', 'insulting', 'violence']","['Arab', 'Jew', 'Others']"
+bit_vlUgDVwDKNCX,['insulting'],[]
+bit_wXgeo6nAc249,"['hateful', 'insulting']","['Jew', 'Others']"
+bit_wghiu97Htlj6,['insulting'],[]
+bit_x1pEUxUAjXeU,['violence'],[]
+bit_xKSJF6iNYyde,['normal'],[]
+bit_xbIoWrCvVGmR,"['hateful', 'insulting', 'violence']","['Black', 'Jew', 'Gay']"
+bit_xdGeIzB0V0ov,"['insulting', 'sexual', 'violence']",[]
+bit_yloOnYiAkptL,"['hateful', 'insulting']",['Transgender']
+bit_ymRCBAUUhAW5,"['hateful', 'insulting', 'violence']","['Transgender', 'Islam', 'Christian', 'Lesbian', 'Gay']"
+bit_z2UcFPbN3YVl,['normal'],[]
+bit_zLx1FA9or7A,"['hateful', 'insulting']",[]
+bit_zSXeZShOeqv6,['normal'],[]
+bit_zsfmIGKVw4JU,"['hateful', 'insulting']","['Black', 'Asian', 'Others']"
+bit_0Zh98SJG87xR,['insulting'],[]
+bit_0c3iRc8b0CPF,['hateful'],"['Christian', 'Jew']"
+bit_0nXuyV2rypaf,['normal'],[]
+bit_0qeUIQTgbWsC,['insulting'],[]
+bit_1kW6COenXnwa,['hateful'],"['Christian', 'Jew', 'Transgender', 'Others']"
+bit_20VYH5uxw20D,"['hateful', 'violence']","['Black', 'Jew', 'Islam']"
+bit_25xl3W3FOAU8,['hateful'],['Jew']
+bit_2I68ZvgILj8b,['normal'],[]
+bit_2MpOFaHw0V1s,"['hateful', 'insulting']",['Christian']
+bit_2oH13orR5Scb,"['hateful', 'insulting']","['Jew', 'White', 'Mixed-Race']"
+bit_3rLvnyheeW6V,['hateful'],"['Jew', 'Communist']"
+bit_3weXsCrGaRBE,"['hateful', 'sexual', 'harm', 'violence']","['Asian', 'Gay']"
+bit_5tlz6COSIDw0,"['hateful', 'insulting', 'violence']","['Woman', 'White', 'Liberals', 'Black', 'Mixed-Race', 'Asian', 'Gay']"
+bit_5xK2cUiW3SAC,"['hateful', 'insulting']",['Jew']
+bit_5zlP6BSkNMhq,"['hateful', 'violence']","['Jew', 'Mixed-Race']"
+bit_8I3rasu4mSiz,"['hateful', 'sexual', 'harm', 'violence']","['Black', 'Asian']"
+bit_AGVPI1DU4qF9,['sexual'],[]
+bit_CA6yTi4b083X,"['hateful', 'violence']","['Jew', 'Mixed-Race']"
+bit_G7HlyAkKuPEq,['insulting'],[]
+bit_I03hhZDAzOu5,"['hateful', 'violence']","['Black', 'Gay']"
+bit_JUPPGbicIM0r,"['hateful', 'insulting', 'sexual']","['Woman', 'Black', 'Jew', 'Mixed-Race', 'Christian']"
+bit_Jw4bcMnAo6Sa,['hateful'],"['Christian', 'Others']"
+bit_KFr9jMtb3ynQ,"['hateful', 'insulting']","['White', 'Black', 'Jew', 'Transgender', 'Christian', 'Gay']"
+bit_KvDkDWDF0mAb,['normal'],[]
+bit_KzHMHwPZPNIp,"['hateful', 'insulting', 'sexual']","['Black', 'Lesbian']"
+bit_LGoOw2bdKb39,['normal'],[]
+bit_NfINVWlXBdT7,['normal'],[]
+bit_O4ybgRijNK8x,['insulting'],[]
+bit_OMUEMWsOAemf,"['hateful', 'insulting', 'violence']","['Jew', 'White', 'Mixed-Race']"
+bit_OOQWjwXuX6xa,['violence'],[]
+bit_Pdsd7QUFAIIh,"['hateful', 'violence']","['White', 'Others']"
+bit_RPCEeLOHVCCL,['hateful'],"['Arab', 'Islam']"
+bit_THj3Lmxvnzs1,['hateful'],['Jew']
+bit_UWBdv0L73uM6,['normal'],[]
+bit_UX20jBz57GJu,['hateful'],['Jew']
+bit_UXdI6IMmkeoi,['normal'],[]
+bit_UdTTWa9rcP8O,"['hateful', 'violence']",['Black']
+bit_V1R99SX8NCp8,['hateful'],"['Jew', 'Transgender']"
+bit_WARxOdQx9UTL,['hateful'],"['Woman', 'Black', 'Jew', 'Mixed-Race', 'Man', 'Asian', 'Gay']"
+bit_WPImU27iDkhE,['hateful'],"['Jew', 'Latino', 'Asian']"
+bit_WuxuvJb28hPn,"['hateful', 'violence']","['Black', 'Islam', 'Liberals']"
+bit_XHivVdc7fS6w,['hateful'],"['Woman', 'Others', 'Liberals', 'Black', 'Jew', 'Mixed-Race', 'Man', 'Gay']"
+bit_Xu8BfIeibGa5,"['hateful', 'violence']",[]
+bit_XxSzxwKvBR6Y,['insulting'],[]
+bit_Ydtmd4TNPmKl,"['hateful', 'insulting']","['Liberals', 'Others']"
+bit_YodjqgCIKEeR,"['hateful', 'violence']",['Black']
+bit_aM5F9VU2VRMg,['hateful'],"['Black', 'Jew', 'White']"
+bit_bhvW4TvypRgw,['hateful'],"['Buddhist', 'Liberals', 'Jew', 'Communist', 'Christian', 'Hindu']"
+bit_bnRX0C0Aby75,['normal'],[]
+bit_c6CNj1epu9ca,['hateful'],"['Transgender', 'Lesbian', 'Gay']"
+bit_d2YP6yKy0bfM,['insulting'],[]
+bit_d55WdfzSIh7K,['normal'],[]
+bit_g88scm3X19U0,['normal'],[]
+bit_gMQ8unGK4JCV,"['hateful', 'harm', 'violence']",['Black']
+bit_iR8FjIAgEXIx,['hateful'],"['Asian', 'Others']"
+bit_iirXWcbe2gOw,"['hateful', 'harm', 'violence']",['Black']
+bit_jSAL6Zrxg68N,['normal'],[]
+bit_mNM9yWfm98TR,['insulting'],[]
+bit_mz2xzz9RUOQb,['normal'],[]
+bit_n92s9wEwcEnS,['hateful'],"['Arab', 'Asian']"
+bit_nBlDTORm9JRt,['normal'],[]
+bit_nV7dFfAoZa27,['normal'],[]
+bit_oHUSs8xMlR5t,['hateful'],['Jew']
+bit_ocLlrj8KM9n1,['insulting'],[]
+bit_pMm9EFTdQNUn,"['hateful', 'violence']",['Jew']
+bit_s2gZWQlX1Qpl,"['hateful', 'violence']",['Jew']
+bit_s50nK01d7x5P,"['hateful', 'insulting']","['Latino', 'Others']"
+bit_s55oNONuvbEA,['normal'],[]
+bit_sK5fM81Q5BKq,['hateful'],"['Black', 'Jew']"
+bit_tD1tyOy1HOJH,['normal'],"['Black', 'White']"
+bit_ty1ffKOFCEnl,['normal'],[]
+bit_uksimXUlhAbE,['hateful'],"['Black', 'Jew', 'Others', 'Mixed-Race']"
+bit_vgvxpvE6bCzK,['insulting'],[]
+bit_viubiPmBHVFC,"['hateful', 'violence']",['Transgender']
+bit_xXJKLzWkDh9l,['insulting'],[]
+bit_xcZ6JSsWBy91,['hateful'],['Jew']
+bit_y0enhdtwYCc,['normal'],[]
+bit_zfVfpvwhregD,['normal'],[]
+bit_zzRU4shRrJNi,"['hateful', 'violence']","['Black', 'Jew', 'Islam', 'Arab', 'Asian']"
+yt_0Y_8MoLKn0I,['violence'],[]
+yt_1Bjzk6XQOVw,['normal'],[]
+yt_1SnhIU77lPo,"['insulting', 'sexual']",[]
+yt_2YsQnUh_Zos,['insulting'],[]
+yt_3wvdwf2pbt4,"['insulting', 'violence']",[]
+yt_4G5e6jGm8yY,"['insulting', 'violence']",[]
+bit_4KjXTEFFGjM8,"['insulting', 'violence']",[]
+yt_5yZByxbH8cg,"['insulting', 'violence']",[]
+yt_6A9SgWWAqjE,"['insulting', 'violence']",[]
+yt_6qOc8zoLbAA,['insulting'],[]
+yt_8sIY4W1hBQM,"['insulting', 'violence']",[]
+yt_AZLFeHdizxQ,['insulting'],[]
+yt_Aa8xCfPZB1w,"['insulting', 'sexual']",[]
+yt_DnrYK1FXKgk,['harm'],[]
+yt_EnHYXSIpJ_A,['normal'],[]
+yt_GRfSxAIqwkA,['insulting'],[]
+yt_Ge0NHl3uZg4,['insulting'],[]
+yt_HEwBHlLheTs,"['insulting', 'harm', 'violence']",[]
+yt_HhUhWrqv9Js,['normal'],[]
+yt_ImkSb8gr_6c,['normal'],[]
+yt_KKcFbf9AzbA,['insulting'],[]
+yt_LYFd22E4gng,"['insulting', 'violence']",[]
+yt_MB2K7KE7tfA,['insulting'],[]
+yt_NzvfkIYS5Yg,['insulting'],[]
+yt_P4DOyAwN13U,['insulting'],[]
+yt_QHcJj6VWttY,['insulting'],[]
+yt_Q_0wzSdtZbM,['normal'],[]
+yt_RomlBumSu9k,"['insulting', 'sexual']",[]
+yt_SUwb0mNbqLk,"['insulting', 'violence']",[]
+yt_UrgpZ0fUixs,"['insulting', 'sexual']",[]
+yt_VWWnMsLjCdY,['insulting'],[]
+yt_W4H0rwumscA,['insulting'],[]
+yt_WK5eEPmbJ1w,"['insulting', 'sexual', 'violence']",[]
+yt_X0qYqRakvcs,"['insulting', 'sexual']",[]
+yt_XpouV_rE0Fk,['normal'],[]
+yt_Xtics6JrHKc,"['hateful', 'insulting', 'violence']",['Gay']
+yt_YdgrchaCJy4,"['insulting', 'sexual', 'violence']",[]
+yt_YuRvKVXCycc,"['insulting', 'sexual']",[]
+yt_a4uI8jNY_hU,['violence'],[]
+yt_cxy2WJzFkVQ,['insulting'],[]
+yt_e5mdIpZcxtQ,"['insulting', 'sexual']",[]
+yt_g9_rX85XC7E,['insulting'],[]
+yt_gNoLkUHUPtQ,['normal'],[]
+yt_gczMEA3B8Dc,"['insulting', 'violence']",[]
+yt_gl2NKZtl07c,['insulting'],[]
+yt_gp_OU7r5_SE,"['insulting', 'violence']",[]
+yt_hObvr_Iyl7k,"['insulting', 'violence']",[]
+yt_hkNgzMgCA9E,"['insulting', 'violence']",[]
+bit_iekQ7Rk71JE,"['hateful', 'insulting', 'violence']",[]
+yt_jF0bUIvMQxM,['insulting'],[]
+yt_jNY3ZXSTBb8,"['sexual', 'violence']",[]
+yt_kKLoZalVUwQ,['violence'],[]
+yt_ksQif48f7Jw,"['insulting', 'violence']",[]
+yt_mTJo1HWEnJM,['insulting'],[]
+yt_md_umWiqu98,"['insulting', 'violence']",[]
+yt_nVmcy3SJnms,['normal'],[]
+yt_o6vhWULekx4,"['hateful', 'insulting', 'sexual', 'violence']",['Woman']
+yt_oiWasPF9I_g,['insulting'],[]
+yt_p_qvu46d1AU,['normal'],[]
+yt_qDVZ9Z6BhyY,['insulting'],[]
+yt_rH_q2BEYv7Q,['normal'],[]
+yt_rKIVbuCqGuo,['insulting'],[]
+yt_rOPzqNGEvT4,"['insulting', 'sexual']",[]
+yt_tDJOlBWl1LY,['normal'],[]
+yt_tMij0KcYekw,['normal'],[]
+yt_vD0VJV6srao,['normal'],[]
+yt_wTeBTf8Df_g,['insulting'],[]
+yt_wZ2tQkQmY1A,['insulting'],[]
+yt_xSReMMkzREk,['insulting'],[]
+yt_yWXg0SoshrQ,['insulting'],[]
+yt_yoC8ujwznfw,['insulting'],[]
+yt_yqAyxnbjXPc,"['insulting', 'violence']",[]
+yt_yuzFCQoKuPQ,"['insulting', 'sexual']",[]
+yt_zLlbzlS6_Lk,"['insulting', 'violence']",[]
