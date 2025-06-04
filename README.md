@@ -1,12 +1,75 @@
-
-# HateClipSeg
-
-This repository contains the dataset developed for the paper:
-***HateClipSeg: A Segment-Level Annotated Dataset for Fine-Grained Hate Video Detection***.
+Here’s a rewritten and polished version of your README section that improves clarity, flow, grammar, and formatting while preserving the technical content:
 
 ---
 
-## Dataset Structure
+# HateClipSeg
+
+This repository contains the dataset developed for our paper:
+***HateClipSeg: A Segment-Level Annotated Dataset for Fine-Grained Hate Video Detection***.
+
+To advance research in **temporal hate speech detection**, we introduce **HateClipSeg**, a large-scale **multimodal dataset** with both **video-level** and **segment-level annotations**. The dataset includes over **11,714 video segments**, each labeled as either *Normal* or one or more of five *Offensive* categories:
+
+* **Hateful**
+* **Insulting**
+* **Sexual**
+* **Violent**
+* **Self-Harm**
+
+Each segment is also annotated with **explicit target victim labels**, enabling fine-grained and victim-aware detection tasks.
+
+---
+
+## 📊 Dataset Statistics
+
+We ensured a **balanced distribution between Offensive and Normal segments**. Below is a summary of the label distribution:
+
+**Table 1: Video-Level and Segment-Level Label Distribution**
+
+| Label           | Video Count | Segment Count |
+| --------------- | ----------- | ------------- |
+| Hateful         | 194         | 2,363         |
+| Insulting       | 280         | 2,920         |
+| Sexual          | 69          | 372           |
+| Violent         | 192         | 1,281         |
+| Self-Harm       | 18          | 39            |
+| **Offensive\*** | 380         | 5,223         |
+| **Normal**      | 55          | 6,491         |
+
+> \* Offensives may co-occur; video counts are non-exclusive.
+
+---
+
+## ✅ Annotation Process and Quality
+
+We adopted a **three-stage annotation protocol**:
+**Annotation → Discussion → Re-annotation**, which led to **high inter-annotator agreement**, especially at the segment level — an improvement over prior hate video datasets that lacked such detailed reporting.
+
+**Table 2: Inter-Annotator Agreement (Krippendorff’s Alpha)**
+
+| Annotation Task                | Before Discussion | After Discussion |
+| ------------------------------ | ----------------- | ---------------- |
+| Video-Level Offensive/Normal   | 0.791             | 0.817            |
+| Segment-Level Offensive/Normal | 0.715             | 0.757            |
+| Offensive Category Label       | 0.840             | 0.899            |
+| Target Victim Label            | 0.716             | 0.721            |
+
+---
+
+## 🧠 Task Applications
+
+With high-quality segment-level annotations, HateClipSeg enables the extension of hate video detection into the **temporal domain**. Specifically, it supports the development and benchmarking of tasks such as:
+
+1. **Trimmed Video Classification**: Predict a single label for each pre-segmented clip.
+2. **Temporal Video Localization**: Detect labels along with their start and end timestamps within untrimmed videos.
+3. **Online Video Classification**: Perform real-time label prediction on streaming video.
+
+![Diagram illustrating Trimmed Hateful Video Classification, Temporal Hateful Video Localization, and Online
+Hateful Video Classification](Images/figure.png)
+
+
+---
+
+## Dataset File Structure
 
 ### `Datset/video_level_annotation.csv`
 
